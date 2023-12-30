@@ -1,0 +1,4 @@
+[ ✔ ] [IP]: 197.136.17.2
+[ ✔ ] [PORTS]: [22, 80, 443]
+[ ✔ ] [VULNS]: []
+[ ✔ ] [INFO]: ['cpe:/a:openbsd:openssh:9.2p1', 'cpe:/a:apache:http_server:2.4.57', 'cpe:/o:linux:linux_kernel', 'cpe:/o:debian:debian_linux']

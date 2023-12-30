@@ -1,0 +1,8 @@
+ClickJacking Vulnerability:
+The malicious practice of manipulating a website user's activity by concealing hyperlinks beneath legitimate clickable content, thereby causing the user to perform actions of which they are unaware.
+
+Mitigation:
+One way to defend against clickjacking is to include a "frame-breaker" script in each page that should not be framed.
+
+Vulnerable URLS:
+https://cashoutshop.net/ [VULNERABLE]

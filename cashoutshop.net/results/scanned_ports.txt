@@ -1,0 +1,4 @@
+[ ✔ ] [IP]: 66.29.146.105
+[ ✔ ] [PORTS]: [80, 443, 2082, 2083]
+[ ✔ ] [VULNS]: []
+[ ✔ ] [INFO]: ['cpe:/a:getbootstrap:bootstrap']

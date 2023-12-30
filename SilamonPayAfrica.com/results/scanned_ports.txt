@@ -1,0 +1,4 @@
+[ ✔ ] [IP]: 146.190.159.206
+[ ✔ ] [PORTS]: [80]
+[ ✔ ] [VULNS]: ['CVE-2021-3618', 'CVE-2021-23017']
+[ ✔ ] [INFO]: ['cpe:/o:canonical:ubuntu_linux', 'cpe:/o:linux:linux_kernel', 'cpe:/a:f5:nginx:1.18.0']

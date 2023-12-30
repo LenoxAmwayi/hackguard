@@ -15,7 +15,7 @@ banner = Center.XCenter(r"""
 *   | ||_| |_/_/   \_\____|_|\_\     \____|\___/_/   \_\_| \_\____/| |   *
 *    \_\                                                          /_/    *
 *                    WEB APPLICATION VULNERABILITY SCANNER               *
-*                          CODED BY: MACHINE1337                         *
+*                          CODED BY: Lenox #CYBERHAT001                  *
 *                                                                        *
 **************************************************************************
                             \n\n
